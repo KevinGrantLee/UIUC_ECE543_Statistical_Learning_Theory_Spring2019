@@ -6,7 +6,7 @@ I am self-studying this course and working through material for my own edificati
 
 See [here](https://courses.grainger.illinois.edu/ece543/sp2019/lecture%20schedule.pdf) for full list of topics.
 
-Sample of topics:
+Sample of topics (non-exhaustive):
 - PAC learning
 - Concentration Inequalities
 - ERM
